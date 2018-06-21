@@ -1,0 +1,21 @@
+﻿========倩女口袋版=========
+
+1.FairyGUI VS UGUI?
+
+2.图集管理
+
+3.AssetBundle打包配置(依赖/冗余)
+
+4.资源加载/卸载(AB.Load(Asyn)/Resources.Load)
+
+5.热更新Patch(lua/AB)，重置Patch、断点下载
+
+6.ulua VS Xlua
+
+7.制作与检查规范(贴图、场景、特效、模型、动画等)
+
+8.移动设备目标机型(CPU/GPU/Menory适配)
+
+9.Color Space(Gamma/Linear)
+
+10.渲染方案（同屏DC、面数、LOD、Blinn-Phone/PBR、后处理、填充率）
